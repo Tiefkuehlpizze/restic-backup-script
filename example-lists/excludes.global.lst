@@ -1,0 +1,7 @@
+/var/cache/*
+/var/lib/systemd/coredump
+**/cache
+**/Cache
+**/.cache
+**/.Cache
+

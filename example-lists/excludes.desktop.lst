@@ -1,0 +1,16 @@
+/home/*/Downloads
+/home/*/.local
+/home/*/data
+/home/*/.local/share/Steam
+/home/*/.local/share/Trash
+/home/*/.cache
+/home/*/.gradle/caches
+/home/*/.gradle/**/*.log
+/home/*/.m2/repository
+/home/*/.config/syncthing/index-*
+/home/*/.local/state/syncthing/index-*
+/home/*/.npm/_cacache
+/home/*/.tor-browser/app/Browser/TorBrowser/Data/Browser/Caches
+/home/*/.tor-browser/app/Browser/TorBrowser/Data/Browser/profile.default/cache2
+**/Code Cache
+
