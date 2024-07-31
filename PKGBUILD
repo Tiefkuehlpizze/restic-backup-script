@@ -10,7 +10,7 @@ arch=('any')
 url='https://github.com/Tiefkuehlpizze/restic-backup-script'
 license=('GPL')
 
-depends=('restic')
+depends=('restic' 'inetutils')
 
 backup=('etc/restic-backup/backup-env.sh')
 
